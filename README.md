@@ -1,1 +1,4 @@
-# Mownit2018
+# Mownit Lab
+
+Requires Julia 1.2
+
